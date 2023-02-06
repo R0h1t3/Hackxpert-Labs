@@ -1,4 +1,7 @@
 # Hackxpert-Labs
+![image](https://user-images.githubusercontent.com/73820496/216953498-8778072a-80a8-4855-b99a-41a0023a7c63.png)
+<br>
+
 This Repository is a collective resource that contains a detailed Writeups on Hackxpert's Lab Exercises by XSS RAT. <br>This is being made to help with the preparation of the [CNWPP](https://thexssrat.podia.com/cnwpp) exam.<br>
 
 | Topics | Lab Writeups | Resources | Checklist |
